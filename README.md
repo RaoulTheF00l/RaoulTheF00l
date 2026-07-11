@@ -1,46 +1,147 @@
-# Hi, I’m Raoul
+# Hi, I'm Raoul
 
-I’m a self-taught developer building small, focused game and web projects while improving my skills in JavaScript, Godot, GDScript, and practical software design.
+I'm a **self-taught JavaScript and Godot developer** interested in game systems, automation, technical tools, and interactive web applications.
 
-I like making projects that are simple enough to finish, but structured enough to teach real programming habits: save/load systems, modular code, turn-based combat, UI flow, automation scripts, and small playable prototypes.
+I build focused projects that let me solve practical programming problems involving autonomous agents, state management, save systems, turn-based combat, UI flow, resource economies, and modular code architecture.
 
-## What I’m working on
+My current goal is to turn working prototypes into polished, well-documented portfolio projects while continuing to strengthen my software design and debugging skills.
 
-* **Dao Seed** — a browser-based incremental/adventure game with save/load logic, modular systems, and turn-based combat development.
-* **Adventure Land Scripts** — automation scripts focused on party behavior, combat routines, status tracking, and practical JavaScript organization.
-* **Game prototypes** — small RPG, idle, and Zelda-like experiments built to practice real gameplay systems.
+## Featured Projects
 
-## Skills I’m building
+### [Screeps Colony Automation](https://github.com/RaoulTheF00l/screeps)
+
+A modular JavaScript AI that manages a persistent colony in Screeps.
+
+**Current systems include:**
+
+* Role-based creep behavior
+* Automated population management
+* Dynamic creep body selection
+* Colony recovery logic
+* Automated construction and road planning
+* Defensive tower management
+* Room statistics and visual diagnostics
+* Persistent state through Screeps memory
+
+This project gives me a practical environment for working with autonomous behavior, resource allocation, long-running processes, and modular JavaScript architecture.
+
+---
+
+### [Dao Seed](https://github.com/RaoulTheF00l/Dao-Seed)
+
+A browser-based cultivation adventure built with vanilla HTML, CSS, and JavaScript.
+
+**Technical highlights:**
+
+* Modular JavaScript structure
+* Centralized player state
+* Save, load, and reset functionality
+* Incremental progression systems
+* Exploration and resource gathering
+* Turn-based combat development
+* Dynamic UI updates
+
+Dao Seed began as a small prototype and has grown into an exercise in separating application state, gameplay actions, persistence, and presentation.
+
+---
+
+### [Tower Slice](https://github.com/RaoulTheF00l/Tower-Slice)
+
+A small Godot gameplay slice built around a complete progression loop.
+
+The project connects multiple systems into a playable sequence:
+
+* Exploration
+* Resource gathering
+* Crafting
+* Turn-based combat
+* Scene transitions
+* Progression and victory conditions
+
+The deliberately limited scope lets me focus on completing and integrating systems rather than building an oversized project.
+
+---
+
+### [Adventure Land Scripts](https://github.com/RaoulTheF00l/adventureland_scripts)
+
+A collection of modular JavaScript automation scripts for characters in Adventure Land.
+
+The project explores:
+
+* Reusable character behaviors
+* Combat automation
+* Party coordination
+* Inventory management
+* Status tracking
+* Long-running decision logic
+* Shared utility modules
+
+## Technical Skills
+
+### Languages
 
 * JavaScript
-* HTML/CSS
-* Godot Engine
 * GDScript
+* HTML
+* CSS
+
+### Tools and Platforms
+
+* Godot Engine 4
 * Git and GitHub
-* Game systems design
-* Debugging and code organization
-* Save/load systems
-* Turn-based combat logic
+* Visual Studio Code
+* Linux
+* Screeps
+* Adventure Land
+
+### Development Focus
+
+* Modular program architecture
+* Gameplay systems
+* Automation and agent behavior
+* State management
+* Save and load systems
+* Turn-based combat
 * UI and menu flow
+* Debugging and refactoring
+* Scope management
+* Technical documentation
 
-## Portfolio focus
+## How I Work
 
-I’m especially interested in:
+I approach development through small, testable improvements:
 
+1. Define one concrete problem.
+2. Build the simplest working version.
+3. Test it inside the actual project.
+4. Separate responsibilities as the system grows.
+5. Document what the project does and why decisions were made.
+6. Commit working milestones with Git.
+
+I value readable code, practical problem-solving, honest documentation, and projects that demonstrate functioning systems rather than unfinished promises.
+
+## Current Focus
+
+I am currently:
+
+* Expanding my Screeps colony into a more autonomous system
+* Improving the architecture of my JavaScript projects
+* Polishing project documentation and presentation
+* Building complete gameplay loops in Godot
+* Developing stronger testing and debugging habits
+
+## Opportunities
+
+I am interested in entry-level opportunities involving:
+
+* JavaScript development
 * Game development
+* Gameplay or tools programming
+* QA and software testing
+* Technical support
+* Automation
 * Front-end development
-* QA / bug testing
-* Tools and automation
-* Junior software support or technical support roles
 
-## Current goal
+I am especially interested in environments where I can contribute to a real project, learn from experienced developers, and steadily take on greater technical responsibility.
 
-My current goal is to keep improving my projects until each one has:
-
-* A clear README
-* Screenshots or GIFs
-* A playable/demoable build when possible
-* Cleaner code structure
-* A short explanation of what I learned
-
-Thanks for stopping by.
+Thanks for visiting my profile and taking a look at my work.
