@@ -146,6 +146,6 @@ I am especially interested in environments where I can contribute to a real proj
 
 Reach me on Github, or at:
 
-### [Email](https://Ra0ulTh3F00l@gmail.com)
+https://Ra0ulTh3F00l@gmail.com
 
 Thanks for visiting my profile and taking a look at my work.
